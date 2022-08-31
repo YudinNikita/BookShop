@@ -1,5 +1,5 @@
 # BookShop
-Admin username: Admin
-Admin password: 1234
-Default user username: User
-Default user password: 1234
+Admin username: Admin<br />
+Admin password: 1234<br />
+Default user username: User<br />
+Default user password: 1234<br />
